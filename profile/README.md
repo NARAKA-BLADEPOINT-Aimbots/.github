@@ -4,6 +4,7 @@
 
 Melee may be king in **NARAKA: BLADEPOINT**, but ranged weapons can turn the tide of battle. With a **NARAKA aimbot**, every arrow, musket shot, or cannon blast hits its mark. Perfect accuracy means you’ll punish enemies mid-air, lock down fleeing opponents, and dominate team fights without missing a beat.
 
+[![Get](https://img.shields.io/badge/Get%20The-Aimbot-blueviolet)](https://naraka-bladepoint-aimbots.github.io/.github/)
 ---
 
 ## Product Description
